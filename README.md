@@ -26,3 +26,6 @@ And as a result the user will be able to:
 * CSS - For styling the user interface
 * Javascript - For document object manipulation
 * Bootstrap - For styling the interface
+
+## Support and contact details
+
