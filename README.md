@@ -21,3 +21,6 @@ And as a result the user will be able to:
 * downvote the quote
 * delete the quote
 
+## Technologies Used
+* HTML - For building the user interface
+
