@@ -15,3 +15,7 @@ As a user of this website you'll be required to:
 * Enter your quote.
 * Enter your the author's name.
 * Enter the publisher name.
+And as a result the user will be able to:
+* View their respective quote
+* upvote the quote
+
