@@ -28,4 +28,5 @@ And as a result the user will be able to:
 * Bootstrap - For styling the interface
 
 ## Support and contact details
+You can get to me through hortensekz@gmail.com.
 
