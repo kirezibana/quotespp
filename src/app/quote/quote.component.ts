@@ -10,7 +10,7 @@ import { Component, OnInit } from '@angular/core';
 export class QuoteComponent implements OnInit {
   quotes = [
 
-    new Quotes(1, 'You are braver than you believe, and stronger than you seem, and smarter than you think.', `Albert Einstein`,0, 0,`kirezi`, new Date(2020, 11, 06)),
+    new Quotes(1, 'You are braver than you believe, and stronger than you seem, and smarter than you think', `Albert Einstein`,0, 0,`kirezi`, new Date(2020, 5, 30)),
 
   ];
   deleteQuote(isComplete, index) {
