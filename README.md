@@ -29,4 +29,5 @@ And as a result the user will be able to:
 
 ## Support and contact details
 You can get to me through hortensekz@gmail.com.
+### License.
 
