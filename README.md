@@ -14,3 +14,4 @@ This is an application where users can create quotes and have those quotes voted
 As a user of this website you'll be required to:
 * Enter your quote.
 * Enter your the author.
+* Enter the publisher.
