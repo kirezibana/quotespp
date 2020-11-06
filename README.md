@@ -18,4 +18,6 @@ As a user of this website you'll be required to:
 And as a result the user will be able to:
 * View their respective quote
 * upvote the quote
+* downvote the quote
+* delete the quote
 
