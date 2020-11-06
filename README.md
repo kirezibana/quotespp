@@ -8,3 +8,5 @@ This is an application where users can create quotes and have those quotes voted
 |Dialog box opens| User enters required credentials| quote name displayed|
 ## Setup/Installation Requirements
 * Create an account on Github
+* Clone the link
+* Open the link from where the repository is saved
