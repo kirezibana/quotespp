@@ -10,3 +10,7 @@ This is an application where users can create quotes and have those quotes voted
 * Create an account on Github
 * Clone the link
 * Open the link from where the repository is saved
+## Features
+As a user of this website you'll be required to:
+* Enter your birthday date.
+* Enter your gender.
