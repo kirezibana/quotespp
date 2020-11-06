@@ -12,5 +12,5 @@ This is an application where users can create quotes and have those quotes voted
 * Open the link from where the repository is saved
 ## Features
 As a user of this website you'll be required to:
-* Enter your birthday date.
-* Enter your gender.
+* Enter your quote.
+* Enter your the author.
