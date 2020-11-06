@@ -1,5 +1,5 @@
 #### date :6/11/2020
-#### By ** kirezi bana Hortense**
+#### By ** kirezi Bana Hortense**
 ## Description
 This is an application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational.  
 ## Behaviour Driven Development(BDD)
