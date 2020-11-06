@@ -23,4 +23,4 @@ And as a result the user will be able to:
 
 ## Technologies Used
 * HTML - For building the user interface
-
+* CSS - For styling the user interface
